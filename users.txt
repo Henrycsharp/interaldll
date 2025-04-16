@@ -1,0 +1,2 @@
+dXNlcjE6MTIzNA==   // user1:1234
+dGVzdGVyOnBhc3N3MHJk   // tester:passw0rd
